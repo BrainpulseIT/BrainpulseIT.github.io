@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.brainpulse.it/de/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,25 +11,395 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://www.brainpulse.it/de/"
                 />
   </url><url>
-    <loc>https://www.brainpulse.it/de/blog/post-1/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://www.brainpulse.it/de/career/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.brainpulse.it/blog/post-1/"
+                href="https://www.brainpulse.it/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.brainpulse.it/de/blog/post-1/"
+                href="https://www.brainpulse.it/de/career/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/career/sr-executive-service-assurance/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/career/sr-executive-service-assurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/sr-executive-service-assurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/career/sr-executive-service-assurance/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/products/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/products/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/products/product-1/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/products/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/products/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/products/product-1/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/career/digital-marketing-media-manager/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/career/digital-marketing-media-manager/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/digital-marketing-media-manager/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/career/digital-marketing-media-manager/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/case-studies/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/case-studies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/case-studies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/case-studies/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/case-studies/case-1/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/case-studies/case-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/case-studies/case-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/case-studies/case-1/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/products/product-2/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/products/product-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/products/product-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/products/product-2/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/career/people-program-management-leader/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/career/people-program-management-leader/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/people-program-management-leader/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/career/people-program-management-leader/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/case-studies/case-2/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/case-studies/case-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/case-studies/case-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/case-studies/case-2/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/career/senior-backend-programmer/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/career/senior-backend-programmer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/senior-backend-programmer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/career/senior-backend-programmer/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/case-studies/case-3/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/case-studies/case-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/case-studies/case-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/case-studies/case-3/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/products/product-3/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/products/product-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/products/product-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/products/product-3/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/products/product-4/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/products/product-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/products/product-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/products/product-4/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/case-studies/case-4/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/case-studies/case-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/case-studies/case-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/case-studies/case-4/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/case-studies/case-5/</loc>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/case-studies/case-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/case-studies/case-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/case-studies/case-5/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/career/programmer-web-developer/</loc>
+    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/career/programmer-web-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/programmer-web-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/career/programmer-web-developer/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/case-studies/case-6/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/case-studies/case-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/case-studies/case-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/case-studies/case-6/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/career/technology-integration-support/</loc>
+    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/career/technology-integration-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/technology-integration-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/career/technology-integration-support/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/career/asp-net-software-developer/</loc>
+    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/career/asp-net-software-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/career/asp-net-software-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/career/asp-net-software-developer/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-7/</loc>
+    <lastmod>2021-02-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-7/"
                 />
   </url><url>
     <loc>https://www.brainpulse.it/de/blog/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <lastmod>2021-02-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,8 +407,173 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://www.brainpulse.it/de/blog/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-8/</loc>
+    <lastmod>2021-01-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-8/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-1/</loc>
+    <lastmod>2020-08-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-1/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-2/</loc>
+    <lastmod>2020-07-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-2/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-3/</loc>
+    <lastmod>2020-06-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-3/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-4/</loc>
+    <lastmod>2020-05-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-4/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-5/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-5/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/blog/post-6/</loc>
+    <lastmod>2020-03-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/blog/post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/blog/post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/blog/post-6/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/author/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/author/awab-husameldin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/author/awab-husameldin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/author/awab-husameldin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/author/awab-husameldin/"
                 />
   </url><url>
     <loc>https://www.brainpulse.it/de/terms-conditions/</loc>
@@ -46,6 +581,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.brainpulse.it/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -61,6 +601,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://www.brainpulse.it/de/categories/"
                 />
@@ -73,8 +618,47 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://www.brainpulse.it/de/privacy-policy/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/get-demo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/get-demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/get-demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/get-demo/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/how-it-works/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/how-it-works/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/how-it-works/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/how-it-works/"
                 />
   </url><url>
     <loc>https://www.brainpulse.it/de/faq/</loc>
@@ -85,8 +669,30 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://www.brainpulse.it/de/faq/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/author/joseph-gonzalez/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/author/joseph-gonzalez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/author/joseph-gonzalez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/author/joseph-gonzalez/"
                 />
   </url><url>
     <loc>https://www.brainpulse.it/de/contact/</loc>
@@ -94,6 +700,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.brainpulse.it/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -109,6 +720,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://www.brainpulse.it/de/pricing/"
                 />
@@ -121,8 +737,47 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://www.brainpulse.it/de/tags/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/team/"
+                />
+  </url><url>
+    <loc>https://www.brainpulse.it/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brainpulse.it/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.brainpulse.it/zh-cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.brainpulse.it/de/about/"
                 />
   </url>
 </urlset>

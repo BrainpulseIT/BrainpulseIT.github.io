@@ -1,19 +1,334 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brainpulse IT - Consultancy &amp; training</title>
+    <title>Brainpulse IT</title>
     <link>https://www.brainpulse.it/de/</link>
-    <description>Recent content on Brainpulse IT - Consultancy &amp; training</description>
+    <description>Recent content on Brainpulse IT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://www.brainpulse.it/de/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brainpulse.it/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dies ist eine deutsche Testseite</title>
+      <title>Sr. Executive - Service Assurance</title>
+      <link>https://www.brainpulse.it/de/career/sr-executive-service-assurance/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/career/sr-executive-service-assurance/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>CRM</title>
+      <link>https://www.brainpulse.it/de/products/product-1/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/products/product-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing / Media Manager</title>
+      <link>https://www.brainpulse.it/de/career/digital-marketing-media-manager/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/career/digital-marketing-media-manager/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://www.brainpulse.it/de/case-studies/case-1/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/case-studies/case-1/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Help Desk</title>
+      <link>https://www.brainpulse.it/de/products/product-2/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/products/product-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People Program Management Leader</title>
+      <link>https://www.brainpulse.it/de/career/people-program-management-leader/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/career/people-program-management-leader/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>https://www.brainpulse.it/de/case-studies/case-2/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/case-studies/case-2/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Senior Backend Programmer</title>
+      <link>https://www.brainpulse.it/de/career/senior-backend-programmer/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/career/senior-backend-programmer/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Trello</title>
+      <link>https://www.brainpulse.it/de/case-studies/case-3/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/case-studies/case-3/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Workplace</title>
+      <link>https://www.brainpulse.it/de/products/product-3/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/products/product-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>https://www.brainpulse.it/de/products/product-4/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/products/product-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify</title>
+      <link>https://www.brainpulse.it/de/case-studies/case-4/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/case-studies/case-4/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Jira</title>
+      <link>https://www.brainpulse.it/de/case-studies/case-5/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/case-studies/case-5/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Programmer/ Web Developer</title>
+      <link>https://www.brainpulse.it/de/career/programmer-web-developer/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/career/programmer-web-developer/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Iconosquare</title>
+      <link>https://www.brainpulse.it/de/case-studies/case-6/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/case-studies/case-6/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Technology Integration Support</title>
+      <link>https://www.brainpulse.it/de/career/technology-integration-support/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/career/technology-integration-support/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Software Developer</title>
+      <link>https://www.brainpulse.it/de/career/asp-net-software-developer/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/career/asp-net-software-developer/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>How and why we decided to launch an EMI scheme for our employees</title>
+      <link>https://www.brainpulse.it/de/blog/post-7/</link>
+      <pubDate>Thu, 18 Feb 2021 10:07:21 +0600</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/blog/post-7/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>What to consider before starting a business – Inside The Studio</title>
+      <link>https://www.brainpulse.it/de/blog/post-8/</link>
+      <pubDate>Mon, 18 Jan 2021 10:07:21 +0600</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/blog/post-8/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
       <link>https://www.brainpulse.it/de/blog/post-1/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      <pubDate>Tue, 18 Aug 2020 10:07:21 +0600</pubDate>
       
       <guid>https://www.brainpulse.it/de/blog/post-1/</guid>
-      <description>Exemplarische Überschrift Hier ist ein Beispiel für eine Überschrift. Sie können diese Überschrift verwenden, indem Sie den Markdownify-Regeln folgen.</description>
+      <description>Table Of Content  Heading 2  Heading 3  Heading 4  Heading 5 Emphasis Link Paragraph Ordered List Unordered List Code and Syntax Highlighting Blockquote Inline HTML Tables Image Youtube video          Here is example of hedings.</description>
+    </item>
+    
+    <item>
+      <title>Pump-up the team morale and celebrate the excellence</title>
+      <link>https://www.brainpulse.it/de/blog/post-2/</link>
+      <pubDate>Sat, 18 Jul 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/blog/post-2/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>screens with built in Present and Dismiss animations.</title>
+      <link>https://www.brainpulse.it/de/blog/post-3/</link>
+      <pubDate>Thu, 18 Jun 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/blog/post-3/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://www.brainpulse.it/de/blog/post-4/</link>
+      <pubDate>Mon, 18 May 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/blog/post-4/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://www.brainpulse.it/de/blog/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/blog/post-5/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://www.brainpulse.it/de/blog/post-6/</link>
+      <pubDate>Wed, 18 Mar 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/blog/post-6/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Awab Husameldin</title>
+      <link>https://www.brainpulse.it/de/author/awab-husameldin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/author/awab-husameldin/</guid>
+      <description>Hic dolor cumque quod quas pariatur modi rerum qui consequatur, iusto inventore necessitatibus.</description>
+    </item>
+    
+    <item>
+      <title>Bedingungen Service</title>
+      <link>https://www.brainpulse.it/de/terms-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/terms-conditions/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutz-Bestimmungen</title>
+      <link>https://www.brainpulse.it/de/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/privacy-policy/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+    <item>
+      <title>Demo Herunterladen</title>
+      <link>https://www.brainpulse.it/de/get-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/get-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How it Works</title>
+      <link>https://www.brainpulse.it/de/how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/how-it-works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Häufig gestellte Fragen</title>
+      <link>https://www.brainpulse.it/de/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Gonzalez</title>
+      <link>https://www.brainpulse.it/de/author/joseph-gonzalez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/author/joseph-gonzalez/</guid>
+      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
+    </item>
+    
+    <item>
+      <title>Kontaktiere uns</title>
+      <link>https://www.brainpulse.it/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/contact/</guid>
+      <description>Warum Sie uns kontaktieren sollten! Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Preisgestaltung</title>
+      <link>https://www.brainpulse.it/de/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unser Team</title>
+      <link>https://www.brainpulse.it/de/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://www.brainpulse.it/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainpulse.it/de/about/</guid>
+      <description></description>
     </item>
     
   </channel>
