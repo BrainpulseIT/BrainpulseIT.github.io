@@ -26,6 +26,8 @@
                 href="https://www.brainpulse.it/nl/categories/"
                 />
   </url><url>
+    <loc>https://www.brainpulse.it/nl/certificeringen/</loc>
+  </url><url>
     <loc>https://www.brainpulse.it/nl/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,7 +40,7 @@
                 href="https://www.brainpulse.it/nl/contact/"
                 />
   </url><url>
-    <loc>https://www.brainpulse.it/nl/about-me/</loc>
+    <loc>https://www.brainpulse.it/nl/over-mij/</loc>
   </url><url>
     <loc>https://www.brainpulse.it/nl/tags/</loc>
     <xhtml:link
