@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.brainpulse.it/nl/</loc>
+    <loc>https://www.brainpulse.it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://www.brainpulse.it/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="https://www.brainpulse.it/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.brainpulse.it/nl/"
-                />
   </url><url>
-    <loc>https://www.brainpulse.it/nl/categories/</loc>
+    <loc>https://www.brainpulse.it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://www.brainpulse.it/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
                 href="https://www.brainpulse.it/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.brainpulse.it/nl/categories/"
-                />
   </url><url>
-    <loc>https://www.brainpulse.it/nl/certificeringen/</loc>
+    <loc>https://www.brainpulse.it/certificeringen/</loc>
   </url><url>
-    <loc>https://www.brainpulse.it/nl/contact/</loc>
+    <loc>https://www.brainpulse.it/contact/</loc>
   </url><url>
-    <loc>https://www.brainpulse.it/nl/over-mij/</loc>
+    <loc>https://www.brainpulse.it/over-mij/</loc>
   </url><url>
-    <loc>https://www.brainpulse.it/nl/tags/</loc>
+    <loc>https://www.brainpulse.it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.brainpulse.it/tags/"
+                href="https://www.brainpulse.it/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://www.brainpulse.it/nl/tags/"
+                href="https://www.brainpulse.it/tags/"
                 />
   </url>
 </urlset>
