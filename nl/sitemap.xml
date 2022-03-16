@@ -29,16 +29,6 @@
     <loc>https://www.brainpulse.it/nl/certificeringen/</loc>
   </url><url>
     <loc>https://www.brainpulse.it/nl/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.brainpulse.it/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.brainpulse.it/nl/contact/"
-                />
   </url><url>
     <loc>https://www.brainpulse.it/nl/over-mij/</loc>
   </url><url>
